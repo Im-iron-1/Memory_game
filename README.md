@@ -1,0 +1,38 @@
+# 🧠 Memory Number Game
+
+숫자 기억력 테스트 게임입니다.
+제한 시간 동안 숫자의 위치를 기억한 뒤, 1부터 순서대로 클릭하세요!
+
+## 🎮 게임 설명
+
+버튼을 눌러 게임을 실행합니다
+
+<img width="1902" height="1422" alt="Image" src="https://github.com/user-attachments/assets/d40ff854-7ac8-4f23-8e01-e5b4b6a1f42b" />
+
+게임을 실행하면 화면에 여러 개의 숫자가 표시됩니다.
+
+숫자는 일정 시간 동안만 보여집니다.
+
+<img width="1915" height="1427" alt="Image" src="https://github.com/user-attachments/assets/498bd759-403d-491c-ae7c-d5839393f699" />
+
+시간이 지나면 숫자가 모두 가려집니다.
+
+플레이어는 1부터 순서대로 숫자를 클릭해야 합니다.
+
+올바르게 클릭하면 다음 단계로 넘어갑니다.
+
+잘못된 숫자를 클릭하면 게임 오버가 됩니다.
+
+<img width="1918" height="1439" alt="Image" src="https://github.com/user-attachments/assets/5457f533-39fe-4304-b263-e03bd798dc35" />
+
+## 📈 난이도 진행 방식
+
+단계가 올라갈수록 숫자의 개수가 증가합니다.
+
+더 많은 숫자를 기억해야 하므로 난이도가 점점 상승합니다.
+
+## 🛠 사용 기술
+
+Python 3
+
+Pygame
